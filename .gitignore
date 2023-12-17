@@ -1,0 +1,23 @@
+# Файлы IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Скомпилированные файлы
+*.class
+
+# Пакетные директории
+node_modules/
+vendor/
+
+# Лог-файлы и базы данных
+*.log
+*.sql
+*.sqlite
+
+# Файлы системы сборки
+/target/
+/build/
+
+.env
